@@ -13,7 +13,7 @@ Unless stated, all your projects will be auto-corrected with Ubuntu 20.04 LTS.
 
 ### man or help:
 
-* echo
+* <code style="color : red>echo</code>
 * cat
 * head
 * tail
