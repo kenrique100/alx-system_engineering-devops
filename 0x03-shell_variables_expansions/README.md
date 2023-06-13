@@ -13,13 +13,13 @@ Unless stated, all your projects will be auto-corrected with Ubuntu 20.04 LTS.
 * [Technical Writing](https://intranet.alxswe.com/rltoken/wYrZr3t3DeAE8PpYHYWGiw "Writing")
 
 #### man or help:
-* *printenv
+* printenv
 * set
 * unset
 * export
 * alias
 * unalias
-* source*
+* source
 * printf
 
 # Learning Objectives
