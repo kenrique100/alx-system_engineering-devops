@@ -1,16 +1,18 @@
 # 0x19. Postmortem
-!ALT[https://youtu.be/rp5cVMNmbro](vid)
+A "postmortem," also known as a retrospective or a debrief, is a structured process conducted after the completion of a project, event, or initiative. It involves a team or group reflecting on what went well, what didn't, and what lessons can be learned for future endeavors. Here are some key points about postmortems:
 
-Any software system will eventually fail, and that failure can come stem from a wide range of possible factors: bugs, traffic spikes, security issues, hardware failures, natural disasters, human error… Failing is normal and failing is actually a great opportunity to learn and improve. Any great Software Engineer must learn from his/her mistakes to make sure that they won’t happen again. Failing is fine, but failing twice because of the same issue is not.
+- Purpose: The primary purpose of a postmortem is to evaluate the outcomes and experiences of a project or event, identifying successes and failures, and extracting valuable lessons for future improvement.
 
-A postmortem is a tool widely used in the tech industry. After any outage, the team(s) in charge of the system will write a summary that has 2 main goals:
+- Participants: Postmortems typically involve key stakeholders, team members, and individuals who were directly involved in the project or event. It's important to have a diverse representation of perspectives to gather comprehensive feedback.
 
-- To provide the rest of the company’s employees easy access to information detailing the cause of the outage. Often outages can have a huge impact on a company, so managers and executives have to understand what happened and how it will impact their work.
-- And to ensure that the root cause(s) of the outage has been discovered and that measures are taken to make sure it will be fixed.
+- Format: Postmortems can take various formats, including structured meetings, written reports, or facilitated discussions. The format should be chosen based on the nature and scale of the project and the preferences of the participants.
 
-## Resources
-### Read or watch:
+- Agenda: A typical postmortem agenda includes reviewing the project's objectives, discussing what went well and what didn't, analyzing root causes of issues or failures, and brainstorming actionable insights and recommendations for future projects.
 
-- [Incident Report, also referred to as a Postmortem](https://sysadmincasts.com/episodes/20-how-to-write-an-incident-report-postmortem)
-- [The importance of an incident postmortem process](https://www.atlassian.com/incident-management/postmortem)
-- [What is an Incident Postmortem?](https://www.pagerduty.com/resources/learn/incident-postmortem/)
+- Open Communication: Postmortems emphasize open and honest communication, creating a safe environment for participants to share their experiences, insights, and feedback without fear of judgment or reprisal.
+
+- Actionable Insights: The ultimate goal of a postmortem is to derive actionable insights and recommendations for improvement. These insights may include process improvements, changes in team dynamics, adjustments to project management methodologies, or new strategies for tackling similar challenges in the future.
+
+- Documentation: It's essential to document the findings and outcomes of the postmortem, including key insights, recommendations, and action items. This documentation serves as a reference for future projects and helps ensure that lessons learned are effectively integrated into organizational practices.
+
+- Continuous Improvement: Postmortems are part of a continuous improvement cycle, where lessons learned from one project inform and enhance the execution of future endeavors. By fostering a culture of reflection and learning, organizations can adapt and evolve more effectively over time.
